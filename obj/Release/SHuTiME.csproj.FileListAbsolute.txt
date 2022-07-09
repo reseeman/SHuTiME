@@ -1,0 +1,12 @@
+C:\Users\gafar\Desktop\SHuTiME\bin\Release\SHuTiME.exe.config
+C:\Users\gafar\Desktop\SHuTiME\bin\Release\SHuTiME.exe.manifest
+C:\Users\gafar\Desktop\SHuTiME\bin\Release\SHuTiME.application
+C:\Users\gafar\Desktop\SHuTiME\bin\Release\SHuTiME.exe
+C:\Users\gafar\Desktop\SHuTiME\bin\Release\SHuTiME.pdb
+C:\Users\gafar\Desktop\SHuTiME\obj\Release\SHuTiME.csproj.AssemblyReference.cache
+C:\Users\gafar\Desktop\SHuTiME\obj\Release\SHuTiME.csproj.SuggestedBindingRedirects.cache
+C:\Users\gafar\Desktop\SHuTiME\obj\Release\SHuTiME.csproj.CoreCompileInputs.cache
+C:\Users\gafar\Desktop\SHuTiME\obj\Release\SHuTiME.exe.manifest
+C:\Users\gafar\Desktop\SHuTiME\obj\Release\SHuTiME.application
+C:\Users\gafar\Desktop\SHuTiME\obj\Release\SHuTiME.exe
+C:\Users\gafar\Desktop\SHuTiME\obj\Release\SHuTiME.pdb

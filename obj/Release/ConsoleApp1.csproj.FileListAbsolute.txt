@@ -1,0 +1,12 @@
+C:\Users\gafar\Desktop\ConsoleApp1\bin\Release\SHuTiME.exe.config
+C:\Users\gafar\Desktop\ConsoleApp1\bin\Release\SHuTiME.exe
+C:\Users\gafar\Desktop\ConsoleApp1\bin\Release\SHuTiME.pdb
+C:\Users\gafar\Desktop\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gafar\Desktop\ConsoleApp1\obj\Release\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gafar\Desktop\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gafar\Desktop\ConsoleApp1\obj\Release\SHuTiME.exe
+C:\Users\gafar\Desktop\ConsoleApp1\obj\Release\SHuTiME.pdb
+C:\Users\gafar\Desktop\ConsoleApp1\bin\Release\SHuTiME.exe.manifest
+C:\Users\gafar\Desktop\ConsoleApp1\bin\Release\SHuTiME.application
+C:\Users\gafar\Desktop\ConsoleApp1\obj\Release\SHuTiME.exe.manifest
+C:\Users\gafar\Desktop\ConsoleApp1\obj\Release\SHuTiME.application
